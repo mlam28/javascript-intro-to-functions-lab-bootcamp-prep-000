@@ -23,9 +23,9 @@ function sayHiToGrandma(string){
  }
 }
 
-function sayHiToGrandma(string){
-console.log(`${string.toUpperCase() === uppercase}`)
- return "YES INDEED!"
-}
+//function sayHiToGrandma(string){
+//console.log(`${string.toUpperCase() === uppercase}`)
+// return "YES INDEED!"
+//}
  var lowercase = "string"
  var uppercase = "STRING"
