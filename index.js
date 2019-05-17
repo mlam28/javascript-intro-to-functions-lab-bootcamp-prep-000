@@ -19,3 +19,4 @@ console.log(`${string.toLowerCase() === lowercase}`)
  return "I can't hear you!"
 }
  var lowercase = "hello"
+ var uppercase = "HELLO"
